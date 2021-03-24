@@ -1,0 +1,23 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    background-color: rgb(167, 78, 167) !important;
+}
+input{
+    outline: none;
+    color: gray;
+    font-weight: 400;
+    padding: 4px;
+}
+
+table{
+    border: 1px solid black;
+    background-color: gray;
+    color: white;    
+    text-align: center;
+    margin-left: 150px;
+}
+tr,td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
